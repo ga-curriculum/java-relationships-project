@@ -1,13 +1,13 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Relationship CRUD Project</span>
   <span class="subhead">Requirements and Guidance</span>
 </h1>
 
 ## Overview
 
-tktk Project description. Use the below requirements as a sensible starting point but don't feel obligated to the boilerplate suggestions here if it doesn't work for the project you're constructing.
+In this project, you will create a full-stack Java application that uses Spring Boot to create a RESTful API. The app will use a PostgreSQL database and include three models in addition to the User model. The app will include a one-to-many relationship between two models, a many-to-many relationship between two models, and a one-to-many relationship between the User model and another model. Users will be able to perform full CRUD functionality on all models except the User model. The app will use JWT for token-based authentication to sign up, sign in, and sign out. Authorization will be implemented for all CRUD operations. The app will be deployed online so that the rest of the world can use it.
 
-***tktk You will work individually on this project***.
+***You will work individually on this project***.
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
@@ -19,9 +19,15 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
+- The project uses Spring Boot to create a RESTful API.
+- The project uses a PostgreSQL database.
+- The project includes three model in addition to the User model.
+- The project includes a one-to-many relationship between two models. Not including the relationship between the User model and another model.
+- The project includes a many-to-many relationship between two models.
+- The project includes a one-to-many relationship between the User model and another model.
+- Users can perform full CRUD functionality not including the User model.
+- The app uses JWT for token-based authentication to sign up, sign in, and sign out.
+- Authorization is implemented for all CRUD operations.
 - The app is deployed online so that the rest of the world can use it.
 - You are shown as the only contributor to the project on GitHub.
 
@@ -29,9 +35,6 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
 - The files in the app are organized following the conventions demonstrated in lectures.
 - The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
 - The app does not contain dead code, commented-out sections, or console logs.
@@ -43,9 +46,6 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
 - The app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
 - The app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
 - The app utilizes CSS Flexbox and/or Grid for page layout design.
@@ -72,11 +72,9 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 ## Evaluation
 
-Upon completion of your presentation, your instructional team will evaluate your project.
+Your instructional team will evaluate your project after the project’s due date. Your instructors will use the above guidelines to determine whether or not your project meets all of the minimum requirements.
 
-- Your instructors will use the above guidelines to determine whether or not the project passes all of the minimum requirements.
-- Immediately after your presentation, your instructors may provide you with feedback that will benefit your project and perhaps other student's projects. The feedback given at this time is not formal feedback and does not indicate whether you passed or failed the project.
-- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
 
 ## Guidance
 
@@ -94,12 +92,3 @@ Here are some quick tips to get your project started:
 ### Project assistance
 
 Your instructor team will provide guidelines for reaching out for help while you're working on your project.
-
-## Presentation ideas
-
-You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
-
-- Discuss the app. Including details about why you chose the app is a nice touch.
-- Use the app! Demo its features, such as CRUD.
-- Briefly show off something unique in your code or a piece of code you're particularly proud of.
-- Share your experience with the project - what was challenging, what did you gain from building this project?

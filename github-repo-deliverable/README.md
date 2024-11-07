@@ -1,14 +1,12 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Relationship CRUD Project</span>
   <span class="subhead">GitHub Repo Deliverable</span>
 </h1>
 
 ## Introduction
 
-Use your personal account on <https://github.com> to create a ***public*** GitHub repo to use for your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Project Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
 
-The GitHub repository used for the project must be named appropriately. For example, names that describe your project are appropriate, whereas generic names such as `ga-project` or `unit-project` are not.
+## Submitting the URL for your deployed app
 
-## Submitting your GitHub repo URL
-
-Submit the URL for your ***public*** project GitHub repo.
+Deploy your project by following the guide above, then submit the URL for your deployed app.
