@@ -5,7 +5,7 @@
 
 ## Introduction
 
-You'll need to deploy your project on the internet so that others are able to use it! Follow the [Project Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Project Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/tktk/) to deploy your project.
 
 ## Submitting the URL for your deployed app
 
